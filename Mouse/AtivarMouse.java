@@ -61,5 +61,7 @@ public class AtivarMouse {
         mouse.dadosMouse();
 
         mouse.clicar();
+
+        sc.close();
     }
 }
